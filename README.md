@@ -1,15 +1,31 @@
-# Elzero Web School - Python Assignments Track
+# Elzero Web School - Python Assignments
 
-This repository contains my solutions to the comprehensive Python programming assignments from the **Elzero Web School** curriculum. It tracks my progression from fundamental syntax to advanced control flows, data manipulation, and logic building.
+A collection of my solutions and practice files while studying the Python programming track by [Elzero Web School](https://elzero.org/).
 
-## 🚀 Covered Concepts
+This repository documents my progress from Python fundamentals to object-oriented programming, databases, and testing. The code is organized by lesson ranges to make navigation and review easier.
 
-- **Lessons 1-18:** Variables, String Escaping, Slicing, and Built-in String Methods.
-- **Lessons 19-32:** Number types, List operations, Tuples, Sets, and Dictionary manipulation.
-- **Lessons 33-46:** Boolean algebra, Conditional Logic (`if-elif-else`), User inputs, and String parsing.
-- **Lessons 47-55:** Loop control structures (`while` & `for`), dynamic user input validation, and dictionary iterations.
-- **Lessons 56-59:** Advanced custom functions (`def`), parameters handling, dynamic arguments handling (`*args`), and data returns.
+## 📚 Repository Structure
 
-## 🛠️ Tech Stack & Environment
-- **Language:** Python 3.x
-- **IDE:** PyCharm / VS Code
+| Folder | Lessons | Topics |
+|---|---:|---|
+| `01_Fundamentals` | 001–032 | Basics, strings, numbers, lists, tuples, sets, and dictionaries |
+| `02_Control_Flow_and_Loops` | 033–055 | Operators, conditions, user input, and loops |
+| `03_Functions` | 056–064 | Functions, parameters, and advanced function concepts |
+| `04_Files_and_Builtins` | 065–075 | File handling, built-in functions, map, filter, and reduce |
+| `05_Modules_and_Iteration` | 076–089 | Modules, date and time, generators, decorators, and iteration |
+| `06_Error_Handling_and_Regex` | 090–102 | Exception handling and regular expressions |
+| `07_OOP_and_Databases` | 103–127 | Object-oriented programming and SQLite databases |
+| `08_Testing_and_Advanced` | 128–133 | Unit testing and additional Python practice |
+
+## 🛠️ Requirements
+
+- Python 3.12 or later
+- Pillow (for image-processing examples)
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Farrr123/Elzero-Python-Assignments.git
+cd Elzero-Python-Assignments
